@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the core Anime Adventures loop first: place anime-inspired units along the track, upgrade them, and hold every wave before it reaches the exit."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Active Codes",
+          "description": "Redeem gems, gold, and summon tickets in the lobby Settings or Codes panel. Anime Adventures codes are case-sensitive and limited to one claim per account."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Best Units & Tier List",
+          "description": "Read the S to C tier bands before spending gems, then build around one main damage dealer, one support, and one crowd-control unit."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Anime Adventures."
+          "title": "Farming & Leveling",
+          "description": "Farm the fastest Anime Adventures stage you can clear reliably for XP and upgrade materials instead of grinding a stage you barely survive."
         }
       ]
     },
@@ -66,265 +66,385 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Unit Tier List",
+        "Active Codes",
+        "Best Units",
+        "Farming Guide"
       ],
       "cards": [
         {
           "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "title": "Anime Adventures Beginner Guide",
+          "description": "The core tower-defense loop explained: summoning, placement, upgrades, and early progression.",
+          "href": "/guide/anime-adventures-beginner-guide"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "Anime Adventures Codes",
+          "description": "Where working codes come from, how to redeem them, and why they expire so quickly.",
+          "href": "/codes/anime-adventures-codes"
+        },
+        {
+          "badge": "Popular",
+          "title": "Anime Adventures Unit Tier List",
+          "description": "S to C rankings for damage dealers, supports, and budget picks across every game mode.",
+          "href": "/units/anime-adventures-unit-tier-list"
+        },
+        {
+          "badge": "New",
+          "title": "Anime Adventures Best Units",
+          "description": "Which units to chase, how to evolve them, and which traits fit each role.",
+          "href": "/units/anime-adventures-best-units"
+        },
+        {
+          "badge": "Popular",
+          "title": "Anime Adventures Trading Guide",
+          "description": "How to value units, traits, and shiny variants before you accept a trade.",
+          "href": "/trading/anime-adventures-trading"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Anime Adventures Update List",
+          "description": "Patch notes, banners, events, and balance changes collected in one timeline.",
+          "href": "/updates/anime-adventures-update-list"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Anime Adventures?",
       "paragraphs": [
-        "Anime Adventures is a stylized fighting RPG on Roblox inspired by the anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Anime Adventures is a Roblox tower-defense game where you summon anime-inspired units, place them along a track, and stop wave after wave of enemies from reaching the exit. Every unit arrives with a rarity band, an upgrade path, an ability set, and a cost curve, so your roster grows with every pull and every level.",
+        "Gems, gold, and summon items fuel that growth, and short-lived promo codes are the fastest free way to top them up. This wiki covers the full Anime Adventures loop: working codes, unit tier lists, team building, traits and evolutions, farming routes, and the game modes worth your time."
       ],
       "stats": [
-        {
-          "label": "Developer",
-          "value": "Gomu"
-        },
         {
           "label": "Platform",
           "value": "Roblox"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Tower Defense"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Total Visits",
+          "value": "8B+"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Units Available",
+          "value": "100+"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Team Size",
+          "value": "6 Units"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Unit Roles",
+          "value": "5"
         }
       ],
-      "cta": "Explore All Guides"
+      "cta": "Read the Beginner Guide"
     },
     "explore": {
-      "title": "Explore Anime Adventures Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Anime Adventures",
+      "description": "Eight focused hubs cover what new and returning players search for most: unit rankings, codes, beginner steps, unit roles, traits, farming routes, game modes, and update news.",
       "modules": [
         {
           "order": 1,
-          "name": "Anime Adventures Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/anime-adventures-codes",
-          "displayType": "code-box",
+          "name": "Anime Adventures Tier List",
+          "description": "Provide rankings of the strongest units, including meta characters, damage dealers, support units, and beginner-friendly picks. This module helps players decide which units to summon, upgrade, and use for different game modes.",
+          "href": "/units/anime-adventures-unit-tier-list",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "S",
+              "detail": "Meta-defining units that can carry an entire mode on their own"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "A",
+              "detail": "Excellent in their role, only occasionally outclassed by a newer banner"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "B",
+              "detail": "Solid and reliable picks that work as stepping stones"
+            },
+            {
+              "label": "C",
+              "detail": "Niche units that shine in one mode or against one enemy type"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/anime-adventures-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Anime Adventures Codes",
+          "description": "Show active and expired reward codes with redemption instructions and update tracking. This targets players searching for free gems, tickets, and other in-game rewards.",
+          "href": "/codes/anime-adventures-codes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "GEMS",
+              "detail": "Premium currency for summons and unit upgrades",
+              "badge": "Common"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "GOLD",
+              "detail": "Basic currency that pays for unit upgrades",
+              "badge": "Very Common"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "TICKETS",
+              "detail": "Free unit pulls from the summon banner",
+              "badge": "Occasional"
+            },
+            {
+              "label": "REROLL",
+              "detail": "Trait reroll items that change a unit's bonus",
+              "badge": "Occasional"
+            },
+            {
+              "label": "EXP BOOST",
+              "detail": "Boost items that speed up unit leveling",
+              "badge": "Occasional"
+            },
+            {
+              "label": "COSMETICS",
+              "detail": "Profile titles and flair with no combat effect",
+              "badge": "Rare"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/anime-adventures-tier-list",
-          "displayType": "tier-grid",
+          "name": "Anime Adventures Beginner Guide",
+          "description": "Create a starter guide covering summoning, unit upgrading, traits, farming resources, and early progression steps. It helps new players quickly understand the tower defense gameplay loop.",
+          "href": "/guide/anime-adventures-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "1",
+              "detail": "Clear story stages first, because they unlock the characters and modes that make everything else easier"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "2",
+              "detail": "Build around roles: one main damage dealer, one support, and one crowd-control unit"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "3",
+              "detail": "Funnel upgrades into a single carry instead of spreading resources across the roster"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "4",
+              "detail": "Redeem codes from the lobby Settings or Codes panel, remembering they are case-sensitive"
+            },
+            {
+              "label": "5",
+              "detail": "Farm the fastest stage you can clear reliably, not the hardest stage you can barely survive"
+            },
+            {
+              "label": "6",
+              "detail": "Check the unit tier list before big upgrade spends so limited materials go to keepers"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/anime-adventures-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Anime Adventures Units Guide",
+          "description": "List important units with information about abilities, evolution requirements, rarity, and recommended usage. This section can target searches related to specific characters and unit builds.",
+          "href": "/units/anime-adventures-units",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "DPS",
+              "detail": "Single-target and area damage dealers clear waves and bosses"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Support",
+              "detail": "Team buffers multiply the output of every unit around them"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Control",
+              "detail": "Slow and stun specialists keep enemies inside the kill zone"
+            },
+            {
+              "label": "Tank",
+              "detail": "Bruisers absorb hits and hold the choke points"
+            },
+            {
+              "label": "Utility",
+              "detail": "Income and economy units fund faster upgrades"
+            },
+            {
+              "label": "Rarity",
+              "detail": "Common to Mythic sets base stats, but never guarantees value"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/anime-adventures-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Anime Adventures Traits Guide",
+          "description": "Explain unit traits, reroll methods, and which traits are valuable for different strategies. Players can use this section to optimize their strongest characters.",
+          "href": "/units/anime-adventures-best-units",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "DAMAGE",
+              "detail": "Raw damage boosts multiply everything your main DPS has built",
+              "badge": "DPS"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "SPEED",
+              "detail": "Attack speed gives AoE wave clearers more hits and more total damage",
+              "badge": "AoE"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "RANGE",
+              "detail": "Range increases open safer placements for short-range carries",
+              "badge": "Carry"
+            },
+            {
+              "label": "COST",
+              "detail": "Cost reduction gets income and support engines running earlier",
+              "badge": "Econ"
+            },
+            {
+              "label": "UTILITY",
+              "detail": "Range, cooldown, and area bonuses suit control and support units",
+              "badge": "Support"
+            },
+            {
+              "label": "HYBRID",
+              "detail": "Mixed offensive and utility bonuses fit flexible carries",
+              "badge": "Flex"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/anime-adventures-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Anime Adventures Farming Guide",
+          "description": "Cover the best ways to farm gems, materials, experience, and other progression resources. This module targets players looking for efficient grinding methods.",
+          "href": "/guide/anime-adventures-farming",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "1",
+              "detail": "Pick one goal for the session so stamina and boosters are not spread thin"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "2",
+              "detail": "Clear limited daily content first, because those rewards reset and cannot be recovered"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "3",
+              "detail": "Farm the fastest reliable stage for materials, since clear volume beats raw difficulty"
+            },
+            {
+              "label": "4",
+              "detail": "Save boosters for event windows so multipliers stack with event bonuses"
+            },
+            {
+              "label": "5",
+              "detail": "Stop when you hit your goal instead of draining every point of stamina"
+            },
+            {
+              "label": "6",
+              "detail": "Batch farm currency and gold during events with boosted drop rates"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Anime Adventures Game Modes",
+          "description": "Explain available modes, challenges, worlds, and recommended strategies for clearing different stages. This helps players understand progression and endgame content.",
+          "href": "/guide/anime-adventures-stages",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Story",
+              "detail": "Narrative stages that unlock characters and core modes"
+            },
+            {
+              "label": "Farming",
+              "detail": "Repeatable runs for XP, materials, and currency"
+            },
+            {
+              "label": "Boss",
+              "detail": "Composition and timing checks with pattern-heavy fights"
+            },
+            {
+              "label": "Raids",
+              "detail": "Burst damage and debuffs decide the toughest fights"
+            },
+            {
+              "label": "Timed",
+              "detail": "Fast placement and cheap upgrades reward quick clears"
+            },
+            {
+              "label": "Endless",
+              "detail": "Leaderboard and prestige content built for long-term goals"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Anime Adventures Updates",
+          "description": "Collect official announcements, update information, events, and community news. This keeps returning players informed about new content and changes.",
+          "href": "/updates/anime-adventures-update-list",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Patches",
+              "detail": "Balance changes can move a unit from the bench to a core pick"
+            },
+            {
+              "label": "Banners",
+              "detail": "New banners rotate in and reshuffle the top of the meta"
+            },
+            {
+              "label": "Events",
+              "detail": "Limited-time events bring exclusive units and rewards"
+            },
+            {
+              "label": "Codes",
+              "detail": "Update-day codes usually appear in the in-game announcements first"
+            },
+            {
+              "label": "Rebalances",
+              "detail": "Older units get rebalanced and can quietly shift a tier"
+            },
+            {
+              "label": "News",
+              "detail": "Official Discord and social accounts confirm changes within minutes"
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
+      "title": "Anime Adventures FAQ",
       "description": "Quick answers to the most common questions about Anime Adventures.",
       "items": [
         {
           "question": "What is Anime Adventures?",
-          "answer": "Anime Adventures is a free-to-play fighting RPG on Roblox based on the anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Anime Adventures is a free-to-play Roblox tower-defense game. You summon anime-inspired units, place them along a track, and defend against wave after wave of enemies while collecting gems, gold, and summon items."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Are there working Anime Adventures codes?",
+          "answer": "Anime Adventures codes are short-lived, case-sensitive promo strings. Redeem them in the lobby Settings or Codes panel, and remember that each code can only be claimed once per account, so check the Codes page for the current list."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "What are the best Anime Adventures units for beginners?",
+          "answer": "Start with one strong area-damage carry and one income unit, then add a support and a crowd-control unit. A well-built lower-rarity unit that fills a role usually beats a mismatched Mythic."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How does the Anime Adventures tier list work?",
+          "answer": "Anime Adventures tier lists rank units from S to C by how much they carry a mode. S-tier units are meta-defining, A-tier units are excellent in their role, and the lower tiers are solid stepping stones or niche picks."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Do traits and evolutions change Anime Adventures units?",
+          "answer": "Yes. Traits multiply a unit's stats such as damage, attack speed, range, and cooldown, while evolutions can transform a mid-tier unit into a top-tier one. Because rerolls are expensive, spend them on the carry you plan to keep."
+        },
+        {
+          "question": "Where should new Anime Adventures players farm first?",
+          "answer": "Clear story stages first, then farm the fastest stage you can clear reliably for XP and upgrade materials. Save boosters for event windows, and stop when you hit your session goal rather than draining all your stamina."
         }
       ]
     },
