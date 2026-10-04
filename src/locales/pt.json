@@ -1,1 +1,529 @@
-{}
+{
+  "site": {
+    "name": "Anime Adventures Wiki",
+    "shortName": "Anime Adventures",
+    "tagline": "Códigos, Unidades, Tier Lists e Guias de Tower Defense",
+    "description": "Seu guia definitivo de Anime Adventures no Roblox! Explore códigos ativos, tier lists de unidades, estratégias de invocação, melhorias e guias de progressão no tower defense.",
+    "legalNotice": "Wiki de fãs não oficial. Feita por jogadores, para jogadores."
+  },
+  "nav": {
+    "home": "Início",
+    "menu": "Menu",
+    "toggleTheme": "Alternar tema",
+    "codes": "Códigos",
+    "guide": "Guia",
+    "units": "Unidades",
+    "trading": "Trocas",
+    "characters": "Personagens",
+    "updates": "Atualizações",
+    "community": "Comunidade"
+  },
+  "home": {
+    "meta": {
+      "title": "Anime Adventures Wiki - Códigos, Unidades, Tier List",
+      "description": "A Anime Adventures Wiki oferece guias de Roblox, tier lists de unidades, códigos, atualizações e estratégias para ajudar os jogadores a invocar, melhorar e montar as equipes mais fortes."
+    },
+    "hero": {
+      "eyebrow": "Aventura de Tower Defense Anime",
+      "title": "Anime Adventures Wiki",
+      "description": "Anime Adventures é um jogo de tower defense do Roblox em que os jogadores colecionam unidades poderosas inspiradas em animes, invocam heróis, melhoram personagens e se defendem contra ondas de inimigos.",
+      "stats": [
+        "8B+ Visitas Totais",
+        "100+ Unidades Disponíveis",
+        "0 Códigos Ativos",
+        "Atualizações Sazonais"
+      ],
+      "primaryCta": "Guia para Iniciantes",
+      "secondaryCta": "Tier List de Unidades",
+      "tertiaryCta": "Códigos Ativos",
+      "videoLabel": "Mídia oficial"
+    },
+    "updates": {
+      "title": "Últimas Atualizações",
+      "browse": "Ver Todos os Guias",
+      "viewAll": "Ver Tudo"
+    },
+    "start": {
+      "eyebrow": "Comece Aqui",
+      "title": "Sua Jornada em Anime Adventures",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guia para Iniciantes",
+          "description": "Aprenda primeiro o loop principal de Anime Adventures: posicione unidades inspiradas em animes ao longo do caminho, melhore-as e segure cada onda antes que ela chegue à saída."
+        },
+        {
+          "number": "2",
+          "title": "Códigos Ativos",
+          "description": "Resgate gemas, ouro e ingressos de invocação no painel Configurações ou Códigos do lobby. Os códigos de Anime Adventures diferenciam maiúsculas de minúsculas e só podem ser resgatados uma vez por conta."
+        },
+        {
+          "number": "3",
+          "title": "Melhores Unidades e Tier List",
+          "description": "Leia as faixas de tier de S a C antes de gastar gemas e monte a equipe em torno de um dano principal, um suporte e uma unidade de controle de grupo."
+        },
+        {
+          "number": "4",
+          "title": "Farm e Evolução",
+          "description": "Faça farm do estágio mais rápido de Anime Adventures que você consegue vencer com segurança para ganhar XP e materiais de melhoria, em vez de insistir em um estágio que você mal sobrevive."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas Populares",
+      "title": "Em Alta Agora",
+      "quickLinks": [
+        "Tier List de Unidades",
+        "Códigos Ativos",
+        "Melhores Unidades",
+        "Guia de Farm"
+      ],
+      "cards": [
+        {
+          "badge": "Iniciante",
+          "title": "Guia para Iniciantes de Anime Adventures",
+          "description": "O loop central do tower defense explicado: invocação, posicionamento, melhorias e progressão inicial.",
+          "href": "/guide/anime-adventures-beginner-guide"
+        },
+        {
+          "badge": "Atualizado",
+          "title": "Códigos de Anime Adventures",
+          "description": "De onde vêm os códigos ativos, como resgatá-los e por que expiram tão rápido.",
+          "href": "/codes/anime-adventures-codes"
+        },
+        {
+          "badge": "Popular",
+          "title": "Tier List de Unidades de Anime Adventures",
+          "description": "Ranking de S a C para danos, suportes e opções econômicas em todos os modos de jogo.",
+          "href": "/units/anime-adventures-unit-tier-list"
+        },
+        {
+          "badge": "Novo",
+          "title": "Melhores Unidades de Anime Adventures",
+          "description": "Quais unidades buscar, como evoluí-las e quais traços combinam com cada função.",
+          "href": "/units/anime-adventures-best-units"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guia de Trocas de Anime Adventures",
+          "description": "Como avaliar unidades, traços e variantes brilhantes antes de aceitar uma troca.",
+          "href": "/trading/anime-adventures-trading"
+        },
+        {
+          "badge": "Atualizado",
+          "title": "Lista de Atualizações de Anime Adventures",
+          "description": "Notas de patch, banners, eventos e mudanças de balanceamento reunidos em uma linha do tempo.",
+          "href": "/updates/anime-adventures-update-list"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "O que é Anime Adventures?",
+      "paragraphs": [
+        "Anime Adventures é um jogo de tower defense do Roblox em que você invoca unidades inspiradas em animes, posiciona-as ao longo de um caminho e impede que onda após onda de inimigos chegue à saída. Cada unidade vem com uma faixa de raridade, um caminho de melhoria, um conjunto de habilidades e uma curva de custo, então seu elenco cresce a cada invocação e a cada nível.",
+        "Gemas, ouro e itens de invocação alimentam esse crescimento, e códigos promocionais de curta duração são a forma gratuita mais rápida de completá-los. Esta wiki cobre todo o loop de Anime Adventures: códigos ativos, tier lists de unidades, montagem de equipe, traços e evoluções, rotas de farm e os modos de jogo que valem o seu tempo."
+      ],
+      "stats": [
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Gênero",
+          "value": "Tower Defense"
+        },
+        {
+          "label": "Visitas Totais",
+          "value": "8B+"
+        },
+        {
+          "label": "Unidades Disponíveis",
+          "value": "100+"
+        },
+        {
+          "label": "Tamanho da Equipe",
+          "value": "6 Unidades"
+        },
+        {
+          "label": "Funções de Unidade",
+          "value": "5"
+        }
+      ],
+      "cta": "Ler o Guia para Iniciantes"
+    },
+    "explore": {
+      "title": "Explore Anime Adventures",
+      "description": "Oito hubs focados cobrem o que jogadores novos e veteranos mais procuram: rankings de unidades, códigos, passos iniciais, funções de unidade, traços, rotas de farm, modos de jogo e novidades de atualização.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Tier List de Anime Adventures",
+          "description": "Ofereça rankings das unidades mais fortes, incluindo personagens meta, causadores de dano, unidades de suporte e opções amigáveis para iniciantes. Este módulo ajuda os jogadores a decidir quais unidades invocar, melhorar e usar em diferentes modos de jogo.",
+          "href": "/units/anime-adventures-unit-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Unidades que definem o meta e conseguem carregar um modo inteiro sozinhas"
+            },
+            {
+              "label": "A",
+              "detail": "Excelentes em sua função, só ocasionalmente superadas por um banner mais novo"
+            },
+            {
+              "label": "B",
+              "detail": "Escolhas sólidas e confiáveis que servem como degraus"
+            },
+            {
+              "label": "C",
+              "detail": "Unidades de nicho que brilham em um modo ou contra um tipo de inimigo"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Códigos de Anime Adventures",
+          "description": "Mostre códigos de recompensa ativos e expirados com instruções de resgate e acompanhamento de atualizações. Isso atende jogadores que procuram gemas grátis, ingressos e outras recompensas do jogo.",
+          "href": "/codes/anime-adventures-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "GEMAS",
+              "detail": "Moeda premium para invocações e melhorias de unidades",
+              "badge": "Comum"
+            },
+            {
+              "label": "OURO",
+              "detail": "Moeda básica que paga as melhorias de unidades",
+              "badge": "Muito Comum"
+            },
+            {
+              "label": "INGRESSOS",
+              "detail": "Invocações grátis de unidades no banner de invocação",
+              "badge": "Ocasional"
+            },
+            {
+              "label": "REROLL",
+              "detail": "Itens de reroll de traço que mudam o bônus de uma unidade",
+              "badge": "Ocasional"
+            },
+            {
+              "label": "BÔNUS DE XP",
+              "detail": "Itens de bônus que aceleram a evolução das unidades",
+              "badge": "Ocasional"
+            },
+            {
+              "label": "COSMÉTICOS",
+              "detail": "Títulos de perfil e enfeites sem efeito de combate",
+              "badge": "Raro"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guia para Iniciantes de Anime Adventures",
+          "description": "Crie um guia inicial cobrindo invocação, melhoria de unidades, traços, farm de recursos e passos iniciais de progressão. Ele ajuda novos jogadores a entender rapidamente o loop de tower defense.",
+          "href": "/guide/anime-adventures-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Passe primeiro os estágios da história, porque eles desbloqueiam os personagens e modos que facilitam todo o resto"
+            },
+            {
+              "label": "2",
+              "detail": "Monte a equipe por funções: um dano principal, um suporte e uma unidade de controle de grupo"
+            },
+            {
+              "label": "3",
+              "detail": "Concentre as melhorias em um único carry em vez de espalhar recursos por todo o elenco"
+            },
+            {
+              "label": "4",
+              "detail": "Resgate códigos no painel Configurações ou Códigos do lobby, lembrando que diferenciam maiúsculas de minúsculas"
+            },
+            {
+              "label": "5",
+              "detail": "Faça farm do estágio mais rápido que você consegue vencer com segurança, não do mais difícil que você mal sobrevive"
+            },
+            {
+              "label": "6",
+              "detail": "Confira a tier list de unidades antes de grandes gastos com melhorias, para que materiais limitados vão para unidades que valem a pena"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guia de Unidades de Anime Adventures",
+          "description": "Liste unidades importantes com informações sobre habilidades, requisitos de evolução, raridade e uso recomendado. Esta seção pode atender buscas relacionadas a personagens específicos e builds de unidades.",
+          "href": "/units/anime-adventures-units",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "DPS",
+              "detail": "Causadores de dano de alvo único e em área limpam ondas e chefes"
+            },
+            {
+              "label": "Suporte",
+              "detail": "Buffers de equipe multiplicam o dano de todas as unidades ao redor"
+            },
+            {
+              "label": "Controle",
+              "detail": "Especialistas em lentidão e atordoamento mantêm os inimigos na zona de abate"
+            },
+            {
+              "label": "Tanque",
+              "detail": "Bruisers absorvem golpes e seguram os pontos de estrangulamento"
+            },
+            {
+              "label": "Utilidade",
+              "detail": "Unidades de renda e economia financiam melhorias mais rápidas"
+            },
+            {
+              "label": "Raridade",
+              "detail": "De Comum a Mítica define os atributos base, mas nunca garante valor"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guia de Traços de Anime Adventures",
+          "description": "Explique os traços das unidades, métodos de reroll e quais traços são valiosos para diferentes estratégias. Os jogadores podem usar esta seção para otimizar seus personagens mais fortes.",
+          "href": "/units/anime-adventures-best-units",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "DANO",
+              "detail": "Bônus de dano bruto multiplicam tudo o que seu DPS principal construiu",
+              "badge": "DPS"
+            },
+            {
+              "label": "VELOCIDADE",
+              "detail": "Velocidade de ataque dá mais golpes e mais dano total a quem limpa ondas em área",
+              "badge": "AoE"
+            },
+            {
+              "label": "ALCANCE",
+              "detail": "Alcance maior abre posicionamentos mais seguros para carries de curto alcance",
+              "badge": "Carry"
+            },
+            {
+              "label": "CUSTO",
+              "detail": "Redução de custo faz os motores de renda e suporte entrarem em ação mais cedo",
+              "badge": "Econ"
+            },
+            {
+              "label": "UTILIDADE",
+              "detail": "Bônus de alcance, recarga e área combinam com unidades de controle e suporte",
+              "badge": "Suporte"
+            },
+            {
+              "label": "HÍBRIDO",
+              "detail": "Bônus ofensivos e utilitários mistos combinam com carries flexíveis",
+              "badge": "Flex"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guia de Farm de Anime Adventures",
+          "description": "Cubra as melhores formas de farmar gemas, materiais, experiência e outros recursos de progressão. Este módulo atende jogadores em busca de métodos eficientes de grind.",
+          "href": "/guide/anime-adventures-farming",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Escolha um objetivo para a sessão para não diluir stamina e boosters"
+            },
+            {
+              "label": "2",
+              "detail": "Limpe primeiro o conteúdo diário limitado, porque essas recompensas são reiniciadas e não podem ser recuperadas"
+            },
+            {
+              "label": "3",
+              "detail": "Faça farm do estágio rápido e confiável para materiais, já que o volume de clears supera a dificuldade bruta"
+            },
+            {
+              "label": "4",
+              "detail": "Guarde boosters para janelas de evento, assim os multiplicadores se acumulam com os bônus do evento"
+            },
+            {
+              "label": "5",
+              "detail": "Pare quando atingir seu objetivo em vez de drenar cada ponto de stamina"
+            },
+            {
+              "label": "6",
+              "detail": "Faça farm em lote de moeda e ouro durante eventos com taxas de drop aumentadas"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Modos de Jogo de Anime Adventures",
+          "description": "Explique os modos disponíveis, desafios, mundos e estratégias recomendadas para passar diferentes estágios. Isso ajuda os jogadores a entender a progressão e o conteúdo de endgame.",
+          "href": "/guide/anime-adventures-stages",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "História",
+              "detail": "Estágios narrativos que desbloqueiam personagens e modos principais"
+            },
+            {
+              "label": "Farm",
+              "detail": "Runs repetíveis para XP, materiais e moeda"
+            },
+            {
+              "label": "Chefe",
+              "detail": "Checagens de composição e timing com lutas cheias de padrões"
+            },
+            {
+              "label": "Raids",
+              "detail": "Dano explosivo e debuffs decidem as lutas mais difíceis"
+            },
+            {
+              "label": "Cronometrado",
+              "detail": "Posicionamento rápido e melhorias baratas recompensam clears velozes"
+            },
+            {
+              "label": "Infinito",
+              "detail": "Conteúdo de leaderboard e prestígio feito para objetivos de longo prazo"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Atualizações de Anime Adventures",
+          "description": "Reúna anúncios oficiais, informações de atualização, eventos e notícias da comunidade. Isso mantém os jogadores que retornam informados sobre novos conteúdos e mudanças.",
+          "href": "/updates/anime-adventures-update-list",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Patches",
+              "detail": "Mudanças de balanceamento podem tirar uma unidade do banco e colocá-la no time principal"
+            },
+            {
+              "label": "Banners",
+              "detail": "Novos banners entram em rotação e reorganizam o topo do meta"
+            },
+            {
+              "label": "Eventos",
+              "detail": "Eventos por tempo limitado trazem unidades e recompensas exclusivas"
+            },
+            {
+              "label": "Códigos",
+              "detail": "Os códigos do dia de atualização costumam aparecer primeiro nos anúncios do jogo"
+            },
+            {
+              "label": "Rebalanceamentos",
+              "detail": "Unidades antigas são rebalanceadas e podem mudar de tier silenciosamente"
+            },
+            {
+              "label": "Notícias",
+              "detail": "O Discord oficial e as redes sociais confirmam mudanças em minutos"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas Frequentes sobre Anime Adventures",
+      "description": "Respostas rápidas para as perguntas mais comuns sobre Anime Adventures.",
+      "items": [
+        {
+          "question": "O que é Anime Adventures?",
+          "answer": "Anime Adventures é um jogo de tower defense do Roblox gratuito. Você invoca unidades inspiradas em animes, posiciona-as ao longo de um caminho e se defende de onda após onda de inimigos enquanto coleta gemas, ouro e itens de invocação."
+        },
+        {
+          "question": "Existem códigos ativos de Anime Adventures?",
+          "answer": "Os códigos de Anime Adventures são strings promocionais de curta duração e sensíveis a maiúsculas e minúsculas. Resgate-os no painel Configurações ou Códigos do lobby e lembre-se de que cada código só pode ser resgatado uma vez por conta, então confira a página de Códigos para a lista atual."
+        },
+        {
+          "question": "Quais são as melhores unidades de Anime Adventures para iniciantes?",
+          "answer": "Comece com um carry forte de dano em área e uma unidade de renda, depois adicione um suporte e uma unidade de controle de grupo. Uma unidade de raridade menor bem construída que cumpre uma função geralmente supera uma Mítica desalinhada."
+        },
+        {
+          "question": "Como funciona a tier list de Anime Adventures?",
+          "answer": "As tier lists de Anime Adventures classificam unidades de S a C por quanto elas carregam um modo. Unidades de tier S definem o meta, unidades de tier A são excelentes em sua função, e os tiers mais baixos são degraus sólidos ou escolhas de nicho."
+        },
+        {
+          "question": "Traços e evoluções mudam as unidades de Anime Adventures?",
+          "answer": "Sim. Traços multiplicam atributos de uma unidade, como dano, velocidade de ataque, alcance e recarga, enquanto evoluções podem transformar uma unidade de tier médio em uma de tier alto. Como os rerolls são caros, gaste-os no carry que você pretende manter."
+        },
+        {
+          "question": "Onde novos jogadores de Anime Adventures devem farmar primeiro?",
+          "answer": "Passe primeiro os estágios da história, depois faça farm do estágio mais rápido que você consegue vencer com segurança para ganhar XP e materiais de melhoria. Guarde boosters para janelas de evento e pare quando atingir sua meta da sessão em vez de drenar toda a stamina."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto para Dominar Anime Adventures?",
+      "description": "Da sua primeira invocação ao tower defense de endgame, nossa wiki da comunidade tem tudo o que você precisa com guias gratuitos e atualizados.",
+      "primary": "Ler o Guia para Iniciantes",
+      "secondary": "Jogar no Roblox"
+    }
+  },
+  "codes": {
+    "overviewTitle": "Códigos de Anime Adventures",
+    "overviewDescription": "Todos os códigos ativos de Anime Adventures, como resgatá-los e as recompensas que cada um oferece."
+  },
+  "guide": {
+    "overviewTitle": "Guia de Anime Adventures",
+    "overviewDescription": "Guias de Anime Adventures para iniciantes cobrindo farm, missões, estágios e o caminho mais rápido de novato a profissional."
+  },
+  "units": {
+    "overviewTitle": "Unidades de Anime Adventures",
+    "overviewDescription": "Análises de unidades de Anime Adventures, melhores unidades, tier lists míticas e quais invocações valem suas gemas."
+  },
+  "trading": {
+    "overviewTitle": "Trocas de Anime Adventures",
+    "overviewDescription": "Valores de troca de Anime Adventures, listas de valores e tier lists para cada unidade negociável."
+  },
+  "characters": {
+    "overviewTitle": "Personagens de Anime Adventures",
+    "overviewDescription": "Guias de personagens de Anime Adventures para Aizen, Mahoraga, Dio, All Might, Alucard, Griffith, Yuta e mais."
+  },
+  "updates": {
+    "overviewTitle": "Atualizações de Anime Adventures",
+    "overviewDescription": "Notas de atualização de Anime Adventures, análises de novas atualizações, datas de lançamento e detalhes de retorno."
+  },
+  "community": {
+    "overviewTitle": "Comunidade de Anime Adventures",
+    "overviewDescription": "Discord, Reddit, YouTube e links de notícias de Anime Adventures para acompanhar a comunidade."
+  },
+  "shared": {
+    "wikiNavigation": "Navegação da Wiki",
+    "activeCodes": "Códigos Ativos",
+    "updated": "Atualizado",
+    "viewAllCodes": "Ver todos os códigos",
+    "playOnRoblox": "Jogar no Roblox",
+    "inThisSection": "Nesta seção",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos Passos",
+    "needHelp": "Precisa de Ajuda?",
+    "relatedReading": "Leitura Relacionada",
+    "relatedGuides": "Guias Relacionados",
+    "readMore": "Ler mais",
+    "officialMedia": "Mídia oficial",
+    "home": "Início",
+    "noGuidesAvailable": "Nenhum guia disponível ainda. Volte em breve!"
+  },
+  "footer": {
+    "aboutTitle": "Anime Adventures Wiki",
+    "about": "A Anime Adventures Wiki é um hub de guias independente feito por fãs, cobrindo unidades, códigos, tier lists, estratégias de tower defense e conhecimentos essenciais do jogo para jogadores novos e veteranos.",
+    "quickLinks": "Links Rápidos",
+    "guides": "Guias",
+    "legal": "Legal",
+    "copyright": "2026 Anime Adventures Wiki. Não afiliada à Roblox nem aos desenvolvedores do jogo.",
+    "description": "Jogo de tower defense de anime no Roblox com mais de 100 unidades, códigos ativos e atualizações sazonais.",
+    "playGame": "Jogar Anime Adventures no Roblox",
+    "officialDiscord": "Discord Oficial",
+    "officialYoutube": "YouTube Oficial",
+    "beginnerGuide": "Guia para Iniciantes",
+    "privacyPolicy": "Política de Privacidade",
+    "termsOfService": "Termos de Serviço",
+    "officialReddit": "Reddit Oficial",
+    "unitGuides": "Guias de Unidades",
+    "characterGuides": "Guias de Personagens",
+    "codesGuide": "Guia de Códigos"
+  }
+}

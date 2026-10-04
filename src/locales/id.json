@@ -1,1 +1,529 @@
-{}
+{
+  "site": {
+    "name": "Anime Adventures Wiki",
+    "shortName": "Anime Adventures",
+    "tagline": "Kode, Unit, Tier List & Panduan Tower Defense",
+    "description": "Panduan lengkapmu untuk Anime Adventures di Roblox! Jelajahi kode aktif, tier list unit, strategi summon, upgrade, dan panduan progresi tower defense.",
+    "legalNotice": "Wiki penggemar tidak resmi. Dibuat oleh pemain, untuk pemain."
+  },
+  "nav": {
+    "home": "Beranda",
+    "menu": "Menu",
+    "toggleTheme": "Ganti tema",
+    "codes": "Kode",
+    "guide": "Panduan",
+    "units": "Unit",
+    "trading": "Trading",
+    "characters": "Karakter",
+    "updates": "Update",
+    "community": "Komunitas"
+  },
+  "home": {
+    "meta": {
+      "title": "Anime Adventures Wiki - Kode, Unit, Tier List",
+      "description": "Anime Adventures Wiki menyediakan panduan Roblox, tier list unit, kode, update, dan strategi untuk membantu pemain summon, upgrade, dan membangun tim terkuat."
+    },
+    "hero": {
+      "eyebrow": "Petualangan Tower Defense Anime",
+      "title": "Anime Adventures Wiki",
+      "description": "Anime Adventures adalah game tower defense Roblox di mana pemain mengumpulkan unit kuat bertema anime, men-summon hero, meng-upgrade karakter, dan bertahan dari gelombang musuh.",
+      "stats": [
+        "8B+ Total Kunjungan",
+        "100+ Unit Tersedia",
+        "0 Kode Aktif",
+        "Update Musiman"
+      ],
+      "primaryCta": "Panduan Pemula",
+      "secondaryCta": "Tier List Unit",
+      "tertiaryCta": "Kode Aktif",
+      "videoLabel": "Media resmi"
+    },
+    "updates": {
+      "title": "Update Terbaru",
+      "browse": "Lihat Semua Panduan",
+      "viewAll": "Lihat Semua"
+    },
+    "start": {
+      "eyebrow": "Mulai di Sini",
+      "title": "Perjalanan Anime Adventures Kamu",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Panduan Pemula",
+          "description": "Pelajari dulu loop inti Anime Adventures: tempatkan unit bertema anime di sepanjang jalur, upgrade mereka, dan tahan setiap gelombang sebelum mencapai pintu keluar."
+        },
+        {
+          "number": "2",
+          "title": "Kode Aktif",
+          "description": "Tukarkan gem, gold, dan tiket summon di panel Pengaturan atau Kode di lobby. Kode Anime Adventures peka huruf besar-kecil dan hanya bisa diklaim sekali per akun."
+        },
+        {
+          "number": "3",
+          "title": "Unit Terbaik & Tier List",
+          "description": "Baca tingkatan tier S sampai C sebelum menghabiskan gem, lalu bangun tim di sekitar satu damage dealer utama, satu support, dan satu unit crowd control."
+        },
+        {
+          "number": "4",
+          "title": "Farming & Leveling",
+          "description": "Farm stage Anime Adventures tercepat yang bisa kamu selesaikan dengan andal untuk XP dan material upgrade, alih-alih mengulang stage yang hampir tidak kamu lewati."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Halaman Populer",
+      "title": "Sedang Tren",
+      "quickLinks": [
+        "Tier List Unit",
+        "Kode Aktif",
+        "Unit Terbaik",
+        "Panduan Farming"
+      ],
+      "cards": [
+        {
+          "badge": "Pemula",
+          "title": "Panduan Pemula Anime Adventures",
+          "description": "Loop inti tower defense dijelaskan: summon, penempatan, upgrade, dan progresi awal.",
+          "href": "/guide/anime-adventures-beginner-guide"
+        },
+        {
+          "badge": "Diperbarui",
+          "title": "Kode Anime Adventures",
+          "description": "Dari mana kode aktif berasal, cara menukarkannya, dan mengapa cepat kedaluwarsa.",
+          "href": "/codes/anime-adventures-codes"
+        },
+        {
+          "badge": "Populer",
+          "title": "Tier List Unit Anime Adventures",
+          "description": "Peringkat S sampai C untuk damage dealer, support, dan pilihan hemat di setiap mode permainan.",
+          "href": "/units/anime-adventures-unit-tier-list"
+        },
+        {
+          "badge": "Baru",
+          "title": "Unit Terbaik Anime Adventures",
+          "description": "Unit mana yang harus dikejar, cara evolusinya, dan trait apa yang cocok untuk tiap peran.",
+          "href": "/units/anime-adventures-best-units"
+        },
+        {
+          "badge": "Populer",
+          "title": "Panduan Trading Anime Adventures",
+          "description": "Cara menilai unit, trait, dan varian shiny sebelum menerima trade.",
+          "href": "/trading/anime-adventures-trading"
+        },
+        {
+          "badge": "Diperbarui",
+          "title": "Daftar Update Anime Adventures",
+          "description": "Catatan patch, banner, event, dan perubahan balance yang dirangkum dalam satu linimasa.",
+          "href": "/updates/anime-adventures-update-list"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Apa itu Anime Adventures?",
+      "paragraphs": [
+        "Anime Adventures adalah game tower defense Roblox di mana kamu men-summon unit bertema anime, menempatkannya di sepanjang jalur, dan menghentikan gelombang demi gelombang musuh sebelum mencapai pintu keluar. Setiap unit hadir dengan tingkat kelangkaan, jalur upgrade, set kemampuan, dan kurva biaya, jadi rostermu tumbuh di setiap pull dan setiap level.",
+        "Gem, gold, dan item summon mendorong pertumbuhan itu, dan kode promo berdurasi singkat adalah cara gratis tercepat untuk menambahnya. Wiki ini membahas seluruh loop Anime Adventures: kode aktif, tier list unit, penyusunan tim, trait dan evolusi, rute farming, dan mode permainan yang layak dicoba."
+      ],
+      "stats": [
+        {
+          "label": "Platform",
+          "value": "Roblox"
+        },
+        {
+          "label": "Genre",
+          "value": "Tower Defense"
+        },
+        {
+          "label": "Total Kunjungan",
+          "value": "8B+"
+        },
+        {
+          "label": "Unit Tersedia",
+          "value": "100+"
+        },
+        {
+          "label": "Ukuran Tim",
+          "value": "6 Unit"
+        },
+        {
+          "label": "Peran Unit",
+          "value": "5"
+        }
+      ],
+      "cta": "Baca Panduan Pemula"
+    },
+    "explore": {
+      "title": "Jelajahi Anime Adventures",
+      "description": "Delapan hub fokus membahas hal yang paling dicari pemain baru dan lama: peringkat unit, kode, langkah pemula, peran unit, trait, rute farming, mode permainan, dan berita update.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Tier List Anime Adventures",
+          "description": "Sajikan peringkat unit terkuat, termasuk karakter meta, damage dealer, unit support, dan pilihan ramah pemula. Modul ini membantu pemain memutuskan unit mana yang harus di-summon, di-upgrade, dan dipakai di berbagai mode permainan.",
+          "href": "/units/anime-adventures-unit-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Unit yang mendefinisikan meta dan mampu membawa satu mode sendirian"
+            },
+            {
+              "label": "A",
+              "detail": "Sangat baik di perannya, hanya sesekali kalah oleh banner baru"
+            },
+            {
+              "label": "B",
+              "detail": "Pilihan solid dan andal yang berfungsi sebagai batu loncatan"
+            },
+            {
+              "label": "C",
+              "detail": "Unit niche yang bersinar di satu mode atau melawan satu tipe musuh"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Kode Anime Adventures",
+          "description": "Tampilkan kode hadiah aktif dan kedaluwarsa beserta instruksi penukaran dan pelacakan update. Ini menyasar pemain yang mencari gem gratis, tiket, dan hadiah dalam game lainnya.",
+          "href": "/codes/anime-adventures-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "GEM",
+              "detail": "Mata uang premium untuk summon dan upgrade unit",
+              "badge": "Umum"
+            },
+            {
+              "label": "GOLD",
+              "detail": "Mata uang dasar untuk membayar upgrade unit",
+              "badge": "Sangat Umum"
+            },
+            {
+              "label": "TIKET",
+              "detail": "Pull unit gratis dari banner summon",
+              "badge": "Kadang-kadang"
+            },
+            {
+              "label": "REROLL",
+              "detail": "Item reroll trait yang mengubah bonus unit",
+              "badge": "Kadang-kadang"
+            },
+            {
+              "label": "BOOST XP",
+              "detail": "Item boost yang mempercepat leveling unit",
+              "badge": "Kadang-kadang"
+            },
+            {
+              "label": "KOSMETIK",
+              "detail": "Judul profil dan hiasan tanpa efek pertempuran",
+              "badge": "Langka"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Panduan Pemula Anime Adventures",
+          "description": "Buat panduan pemula yang mencakup summon, upgrade unit, trait, farming resource, dan langkah progresi awal. Ini membantu pemain baru cepat memahami loop gameplay tower defense.",
+          "href": "/guide/anime-adventures-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Selesaikan dulu stage cerita, karena itu membuka karakter dan mode yang mempermudah segalanya"
+            },
+            {
+              "label": "2",
+              "detail": "Bangun tim berdasarkan peran: satu damage dealer utama, satu support, dan satu unit crowd control"
+            },
+            {
+              "label": "3",
+              "detail": "Pusatkan upgrade pada satu carry saja, bukan menyebar resource ke seluruh roster"
+            },
+            {
+              "label": "4",
+              "detail": "Tukarkan kode di panel Pengaturan atau Kode di lobby, ingat bahwa kode peka huruf besar-kecil"
+            },
+            {
+              "label": "5",
+              "detail": "Farm stage tercepat yang bisa kamu selesaikan dengan andal, bukan stage tersulit yang hampir tidak kamu lewati"
+            },
+            {
+              "label": "6",
+              "detail": "Cek tier list unit sebelum belanja upgrade besar agar material terbatas diberikan ke unit yang layak"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Panduan Unit Anime Adventures",
+          "description": "Daftar unit penting dengan informasi kemampuan, syarat evolusi, kelangkaan, dan penggunaan yang disarankan. Bagian ini bisa menyasar pencarian terkait karakter tertentu dan build unit.",
+          "href": "/units/anime-adventures-units",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "DPS",
+              "detail": "Damage dealer single-target dan area membersihkan gelombang dan boss"
+            },
+            {
+              "label": "Support",
+              "detail": "Buffer tim melipatgandakan output setiap unit di sekitarnya"
+            },
+            {
+              "label": "Kontrol",
+              "detail": "Spesialis slow dan stun menjaga musuh tetap di zona kill"
+            },
+            {
+              "label": "Tank",
+              "detail": "Bruiser menyerap serangan dan menahan choke point"
+            },
+            {
+              "label": "Utilitas",
+              "detail": "Unit income dan ekonomi mendanai upgrade lebih cepat"
+            },
+            {
+              "label": "Kelangkaan",
+              "detail": "Dari Umum sampai Mitik menentukan stat dasar, tetapi tidak pernah menjamin nilai"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Panduan Trait Anime Adventures",
+          "description": "Jelaskan trait unit, metode reroll, dan trait mana yang berharga untuk berbagai strategi. Pemain bisa memakai bagian ini untuk mengoptimalkan karakter terkuat mereka.",
+          "href": "/units/anime-adventures-best-units",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "DAMAGE",
+              "detail": "Bonus damage mentah melipatgandakan semua yang sudah dibangun DPS utamamu",
+              "badge": "DPS"
+            },
+            {
+              "label": "KECEPATAN",
+              "detail": "Kecepatan serang memberi pembersih gelombang AoE lebih banyak hit dan total damage",
+              "badge": "AoE"
+            },
+            {
+              "label": "JANGKAUAN",
+              "detail": "Jangkauan membuka penempatan lebih aman untuk carry jarak pendek",
+              "badge": "Carry"
+            },
+            {
+              "label": "BIAYA",
+              "detail": "Pengurangan biaya membuat mesin income dan support aktif lebih awal",
+              "badge": "Econ"
+            },
+            {
+              "label": "UTILITAS",
+              "detail": "Bonus jangkauan, cooldown, dan area cocok untuk unit kontrol dan support",
+              "badge": "Support"
+            },
+            {
+              "label": "HIBRIDA",
+              "detail": "Bonus ofensif dan utilitas campuran cocok untuk carry fleksibel",
+              "badge": "Flex"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Panduan Farming Anime Adventures",
+          "description": "Bahasa cara terbaik farming gem, material, pengalaman, dan resource progresi lainnya. Modul ini menyasar pemain yang mencari metode grinding efisien.",
+          "href": "/guide/anime-adventures-farming",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Pilih satu tujuan untuk sesi agar stamina dan booster tidak terbuang"
+            },
+            {
+              "label": "2",
+              "detail": "Selesaikan dulu konten harian terbatas, karena hadiahnya direset dan tidak bisa diambil lagi"
+            },
+            {
+              "label": "3",
+              "detail": "Farm stage cepat yang andal untuk material, karena jumlah clear mengalahkan tingkat kesulitan"
+            },
+            {
+              "label": "4",
+              "detail": "Simpan booster untuk jendela event agar pengali menumpuk dengan bonus event"
+            },
+            {
+              "label": "5",
+              "detail": "Berhenti saat mencapai target, bukan menguras semua poin stamina"
+            },
+            {
+              "label": "6",
+              "detail": "Farm mata uang dan gold secara massal selama event dengan drop rate meningkat"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Mode Permainan Anime Adventures",
+          "description": "Jelaskan mode yang tersedia, tantangan, dunia, dan strategi yang disarankan untuk melewati berbagai stage. Ini membantu pemain memahami progresi dan konten endgame.",
+          "href": "/guide/anime-adventures-stages",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Cerita",
+              "detail": "Stage naratif yang membuka karakter dan mode inti"
+            },
+            {
+              "label": "Farming",
+              "detail": "Run berulang untuk XP, material, dan mata uang"
+            },
+            {
+              "label": "Boss",
+              "detail": "Cek komposisi dan timing dengan pertarungan penuh pola"
+            },
+            {
+              "label": "Raid",
+              "detail": "Burst damage dan debuff menentukan pertarungan tersulit"
+            },
+            {
+              "label": "Berwaktu",
+              "detail": "Penempatan cepat dan upgrade murah memberi hadiah clear kilat"
+            },
+            {
+              "label": "Tanpa Akhir",
+              "detail": "Konten leaderboard dan prestise untuk tujuan jangka panjang"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Update Anime Adventures",
+          "description": "Kumpulkan pengumuman resmi, informasi update, event, dan berita komunitas. Ini menjaga pemain yang kembali tetap tahu tentang konten dan perubahan baru.",
+          "href": "/updates/anime-adventures-update-list",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Patch",
+              "detail": "Perubahan balance bisa memindahkan unit dari bangku cadangan ke pilihan inti"
+            },
+            {
+              "label": "Banner",
+              "detail": "Banner baru bergilir dan mengubah susunan puncak meta"
+            },
+            {
+              "label": "Event",
+              "detail": "Event terbatas menghadirkan unit dan hadiah eksklusif"
+            },
+            {
+              "label": "Kode",
+              "detail": "Kode hari update biasanya muncul lebih dulu di pengumuman dalam game"
+            },
+            {
+              "label": "Rebalance",
+              "detail": "Unit lama di-rebalance dan bisa diam-diam berpindah tier"
+            },
+            {
+              "label": "Berita",
+              "detail": "Discord resmi dan akun sosial mengonfirmasi perubahan dalam hitungan menit"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ Anime Adventures",
+      "description": "Jawaban cepat untuk pertanyaan paling umum tentang Anime Adventures.",
+      "items": [
+        {
+          "question": "Apa itu Anime Adventures?",
+          "answer": "Anime Adventures adalah game tower defense Roblox gratis. Kamu men-summon unit bertema anime, menempatkannya di sepanjang jalur, dan bertahan dari gelombang demi gelombang musuh sambil mengumpulkan gem, gold, dan item summon."
+        },
+        {
+          "question": "Apakah ada kode Anime Adventures yang aktif?",
+          "answer": "Kode Anime Adventures adalah string promo berdurasi singkat yang peka huruf besar-kecil. Tukarkan di panel Pengaturan atau Kode di lobby, dan ingat setiap kode hanya bisa diklaim sekali per akun, jadi cek halaman Kode untuk daftar terbaru."
+        },
+        {
+          "question": "Apa unit Anime Adventures terbaik untuk pemula?",
+          "answer": "Mulai dengan satu carry area damage yang kuat dan satu unit income, lalu tambahkan support dan unit crowd control. Unit kelangkaan lebih rendah yang dibangun baik dan mengisi peran biasanya mengalahkan Mitik yang tidak cocok."
+        },
+        {
+          "question": "Bagaimana cara kerja tier list Anime Adventures?",
+          "answer": "Tier list Anime Adventures memeringkat unit dari S sampai C berdasarkan seberapa besar mereka membawa satu mode. Unit tier S mendefinisikan meta, unit tier A sangat baik di perannya, dan tier bawah adalah batu loncatan solid atau pilihan niche."
+        },
+        {
+          "question": "Apakah trait dan evolusi mengubah unit Anime Adventures?",
+          "answer": "Ya. Trait melipatgandakan stat unit seperti damage, kecepatan serang, jangkauan, dan cooldown, sementara evolusi bisa mengubah unit tier menengah menjadi tier atas. Karena reroll mahal, gunakan pada carry yang ingin kamu pertahankan."
+        },
+        {
+          "question": "Di mana pemain baru Anime Adventures harus farming dulu?",
+          "answer": "Selesaikan dulu stage cerita, lalu farm stage tercepat yang bisa kamu selesaikan dengan andal untuk XP dan material upgrade. Simpan booster untuk jendela event, dan berhenti saat mencapai target sesi daripada menguras semua stamina."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Siap Menguasai Anime Adventures?",
+      "description": "Dari summon pertamamu hingga tower defense endgame, wiki komunitas kami siap membantu dengan panduan gratis dan terbaru.",
+      "primary": "Baca Panduan Pemula",
+      "secondary": "Main di Roblox"
+    }
+  },
+  "codes": {
+    "overviewTitle": "Kode Anime Adventures",
+    "overviewDescription": "Semua kode Anime Adventures yang aktif, cara menukarkannya, dan hadiah yang diberikan masing-masing."
+  },
+  "guide": {
+    "overviewTitle": "Panduan Anime Adventures",
+    "overviewDescription": "Panduan Anime Adventures ramah pemula yang mencakup farming, quest, stage, dan rute tercepat dari noob ke pro."
+  },
+  "units": {
+    "overviewTitle": "Unit Anime Adventures",
+    "overviewDescription": "Bedah unit Anime Adventures, unit terbaik, tier list mitik, dan summon mana yang layak menghabiskan gem."
+  },
+  "trading": {
+    "overviewTitle": "Trading Anime Adventures",
+    "overviewDescription": "Nilai trading Anime Adventures, daftar nilai, dan tier list untuk setiap unit yang bisa ditradingkan."
+  },
+  "characters": {
+    "overviewTitle": "Karakter Anime Adventures",
+    "overviewDescription": "Panduan karakter Anime Adventures untuk Aizen, Mahoraga, Dio, All Might, Alucard, Griffith, Yuta, dan lainnya."
+  },
+  "updates": {
+    "overviewTitle": "Update Anime Adventures",
+    "overviewDescription": "Catatan update Anime Adventures, bedah update baru, tanggal rilis, dan detail comeback."
+  },
+  "community": {
+    "overviewTitle": "Komunitas Anime Adventures",
+    "overviewDescription": "Discord, Reddit, YouTube, dan tautan berita Anime Adventures untuk mengikuti komunitas."
+  },
+  "shared": {
+    "wikiNavigation": "Navigasi Wiki",
+    "activeCodes": "Kode Aktif",
+    "updated": "Diperbarui",
+    "viewAllCodes": "Lihat semua kode",
+    "playOnRoblox": "Main di Roblox",
+    "inThisSection": "Di bagian ini",
+    "tableOfContents": "Daftar Isi",
+    "nextSteps": "Langkah Selanjutnya",
+    "needHelp": "Butuh Bantuan?",
+    "relatedReading": "Bacaan Terkait",
+    "relatedGuides": "Panduan Terkait",
+    "readMore": "Baca selengkapnya",
+    "officialMedia": "Media resmi",
+    "home": "Beranda",
+    "noGuidesAvailable": "Belum ada panduan tersedia. Cek lagi nanti!"
+  },
+  "footer": {
+    "aboutTitle": "Anime Adventures Wiki",
+    "about": "Anime Adventures Wiki adalah pusat panduan independen buatan penggemar yang mencakup unit, kode, tier list, strategi tower defense, dan pengetahuan penting game untuk pemain baru maupun veteran.",
+    "quickLinks": "Tautan Cepat",
+    "guides": "Panduan",
+    "legal": "Legal",
+    "copyright": "2026 Anime Adventures Wiki. Tidak berafiliasi dengan Roblox atau pengembang game.",
+    "description": "Game tower defense anime Roblox dengan 100+ unit, kode aktif, dan update musiman.",
+    "playGame": "Mainkan Anime Adventures di Roblox",
+    "officialDiscord": "Discord Resmi",
+    "officialYoutube": "YouTube Resmi",
+    "beginnerGuide": "Panduan Pemula",
+    "privacyPolicy": "Kebijakan Privasi",
+    "termsOfService": "Ketentuan Layanan",
+    "officialReddit": "Reddit Resmi",
+    "unitGuides": "Panduan Unit",
+    "characterGuides": "Panduan Karakter",
+    "codesGuide": "Panduan Kode"
+  }
+}
