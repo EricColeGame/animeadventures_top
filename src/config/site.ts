@@ -34,6 +34,6 @@ export const siteConfig: SiteConfig = {
     youtube: "https://www.youtube.com/results?search_query=Anime+Adventures+Roblox",
     reddit: "https://www.reddit.com/r/AnimeAdventures/",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "es", "pt", "id"],
   defaultLocale: "en",
 };

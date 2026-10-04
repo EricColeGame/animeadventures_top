@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "codes": "Codes",
+    "guide": "Guide",
+    "units": "Units",
+    "trading": "Trading",
+    "characters": "Characters",
+    "updates": "Updates",
+    "community": "Community"
   },
   "home": {
     "meta": {
@@ -455,7 +462,34 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
+  "codes": {
+    "overviewTitle": "Anime Adventures Codes",
+    "overviewDescription": "All working Anime Adventures codes, how to redeem them, and the rewards each one gives you."
+  },
+  "guide": {
+    "overviewTitle": "Anime Adventures Guide",
+    "overviewDescription": "Beginner-friendly Anime Adventures guides covering farming, quests, stages, and the fastest route from noob to pro."
+  },
+  "units": {
+    "overviewTitle": "Anime Adventures Units",
+    "overviewDescription": "Anime Adventures unit breakdowns, best units, mythic tier lists, and which summons are worth your gems."
+  },
+  "trading": {
+    "overviewTitle": "Anime Adventures Trading",
+    "overviewDescription": "Anime Adventures trading values, value lists, and tier lists for every tradable unit."
+  },
+  "characters": {
+    "overviewTitle": "Anime Adventures Characters",
+    "overviewDescription": "Anime Adventures character guides for Aizen, Mahoraga, Dio, All Might, Alucard, Griffith, Yuta, and more."
+  },
+  "updates": {
+    "overviewTitle": "Anime Adventures Updates",
+    "overviewDescription": "Anime Adventures update notes, new update breakdowns, release dates, and comeback details."
+  },
+  "community": {
+    "overviewTitle": "Anime Adventures Community",
+    "overviewDescription": "Anime Adventures Discord, Reddit, YouTube, and news links to keep up with the community."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -485,11 +519,11 @@
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Skills Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service",
-    "officialReddit": "Official Reddit"
+    "officialReddit": "Official Reddit",
+    "unitGuides": "Unit Guides",
+    "characterGuides": "Character Guides",
+    "codesGuide": "Codes Guide"
   }
 }
